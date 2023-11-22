@@ -1,0 +1,33 @@
+root
+├── backend
+│   ├── src
+│   │   ├── controllers
+│   │   ├── models
+│   │   ├── services
+│   │   └── ...
+│   ├── tests
+│   │   ├── unit
+│   │   └── integration
+│   └── ...
+├── frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── views
+│   │   ├── styles
+│   │   └── ...
+│   ├── tests
+│   │   ├── unit
+│   │   └── integration
+│   └── ...
+├── smart-contracts
+│   ├── contracts
+│   ├── migrations
+│   └── ...
+├── docs
+│   ├── architecture
+│   ├── guides
+│   ├── api-reference
+│   └── ...
+├── README.md
+├── LICENSE
+└── ...
